@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "zereo",
-    "slug": "image-feed",
+    "name": "JG",
+    "slug": "koreatest",
     "privacy": "public",
-    "sdkVersion": "30.0.0",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
